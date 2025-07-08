@@ -50,6 +50,7 @@ The model is a deep CNN with the following layers:
 - Flatten → Dense(1500) → Dense(43 with softmax)  
 
 Loss Function: `categorical_crossentropy`  
+
 Optimizer: Adam with learning rate `0.0001`  
 
 ## 🚀 How to Use
@@ -89,5 +90,7 @@ If you already have `trained_model.h5`, skip to step 2.
 
 ## 👨‍💻 Author
 Muhammad Marzan Hussain
+
 Final Year BSc in Computer Science
+
 Developed as part of academic deep learning project
